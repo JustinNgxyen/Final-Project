@@ -2,9 +2,9 @@
 
 ## Challenges I Faced
 **Challenge 1: Calling to API**
-Problem: A lot of Spotify's APIs are deprecated 
-Solution: I did my best and return the artist's top tracks
-Learned: Use APIs that are still supported and not deprecated
+- Problem: A lot of Spotify's APIs are deprecated 
+- Solution: I did my best and return the artist's top tracks
+- Learned: Use APIs that are still supported and not deprecated
 
 **Challenge 2: Errors would crash the program**
 Problem: Anytime an error appeared, it would crash the program 
