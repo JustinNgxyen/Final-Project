@@ -16,7 +16,7 @@
 - **Factory Pattern:** RecommendationEngine creates and manages recommendation strategy based on the user input
 - **Observer Pattern:** Event-driven interaction between GUI and controller. The View notifies the Controller of the user's actions.
 
-## AI Usage (BE HONEST!)
+## AI Usage
 **Used ChatGPT to create the UI using Swing**
 - Asked: "Create a simple interface for the music recommender"
 - Modified: Swing UI 
