@@ -14,4 +14,5 @@
 - [x] Singleton Pattern (APIClient acts as one instance)
 - [x] Observer (Event Listener, UI Updates)
 
-## Demo: [video link]
+## Demo: https://drive.google.com/file/d/1MI6-LU8Ff34S5cNN9bZi8N0fSkTDQlcr/view?usp=sharing
+
